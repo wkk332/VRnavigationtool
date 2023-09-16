@@ -1,0 +1,10 @@
+
+=== Wed Sep 13 11:29:03 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 已更新:
+  com.unity.collab-proxy 从版本 2.0.4 到 2.0.5
+  com.unity.ide.rider 从版本 3.0.21 到 3.0.24
+  com.unity.xr.interaction.toolkit 从版本 2.3.2 到 2.4.0
